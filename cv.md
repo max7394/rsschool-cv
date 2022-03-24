@@ -15,7 +15,7 @@ function multiply(a, b){
 }
 ```
 
-# Example of project: 
+## Example of project: 
 * CV
 
 ## Education:

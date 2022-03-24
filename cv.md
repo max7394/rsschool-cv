@@ -9,7 +9,11 @@
 * Git
 
 ## Example of code:
-
+```
+function multiply(a, b){
+ return a * b
+}
+```
 
 # Example of project: 
 * CV

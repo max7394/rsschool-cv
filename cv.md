@@ -1,6 +1,7 @@
 # Maksim Lysenka
 ## Contacts:
 * E-mail: mlysenko92@gmail.com
+* Discord: @max739
 * GitHub: https://github.com/max7394/
 
 ## Skills: 

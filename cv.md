@@ -4,7 +4,7 @@
 * Discord: @max7394
 * GitHub: https://github.com/max7394/
 
-## Skills: 
+## Skills:
 * VSC
 * Git
 
@@ -15,7 +15,7 @@ function multiply(a, b){
 }
 ```
 
-## Example of project: 
+## Example of project:
 * CV
 
 ## Education:
